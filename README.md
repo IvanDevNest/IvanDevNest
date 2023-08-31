@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hola!, soy ivan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola!, soy Ivan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=2&color=0C9BF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Reci%C3%A9n+graduado+en+DAW;Buen+trabajador+en+equipo;Dispuesto;Motivado" alt="Typing SVG" /></a>
@@ -16,7 +16,7 @@
 
 - Apasionado de la informatica
 - Recien graduado en DAW (Desarrollo de Aplicaciones Web)
-- Con ganas de entrar al mundo laboral del sector
+- Con ganas de entrar al mundo laboral del sector de la programacion
 - Actualmente estoy abierto a una oportunidad laboral, este es mi curriculum ---> <a href="https://drive.google.com/file/d/1mvLIn3QvoukaeNMW0BunDPYCUt1a-7je/view?usp=sharing"> <img width="40" height="40" src="https://img.icons8.com/office/40/export-pdf.png" alt="export-pdf"/> </a> <a href="https://www.infojobs.net/candidate/cv/view/index.xhtml"> <img width="40" height="40" src="https://img.icons8.com/ultraviolet/40/parse-from-clipboard.png" alt="parse-from-clipboard"/> </a>
 
 
