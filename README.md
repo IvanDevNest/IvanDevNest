@@ -17,8 +17,8 @@
 - Apasionado de la informatica
 - Recien graduado en DAW (Desarrollo de Aplicaciones Web)
 - Con ganas de entrar al mundo laboral del sector de la programacion
-- Actualmente estoy abierto a una oportunidad laboral, este es mi curriculum ---> <a href="https://drive.google.com/file/d/1mvLIn3QvoukaeNMW0BunDPYCUt1a-7je/view?usp=sharing"> <img width="40" height="40" src="https://img.icons8.com/office/40/export-pdf.png" alt="export-pdf"/> </a> InfoJobs ---> <a href="https://www.infojobs.net/candidate/cv/view/index.xhtml"> <img width="40" height="40" src="https://img.icons8.com/ultraviolet/40/parse-from-clipboard.png" alt="parse-from-clipboard"/> </a> <br>
-<a href="">- Video presentativo de una aplicacion realizada con REACT NATIVE CON JS Y PHP CON LARAVEL </a>
+- Actualmente estoy abierto a una oportunidad laboral, este es mi curriculum ---> <a href="https://drive.google.com/file/d/1mvLIn3QvoukaeNMW0BunDPYCUt1a-7je/view?usp=sharing"> <img width="40" height="40" src="https://img.icons8.com/office/40/export-pdf.png" alt="export-pdf"/> </a> InfoJobs ---> <a href="https://www.infojobs.net/candidate/cv/view/index.xhtml"> <img width="40" height="40" src="https://img.icons8.com/ultraviolet/40/parse-from-clipboard.png" alt="parse-from-clipboard"/> </a> <br><br>
+<a href="">Video presentativo de una aplicacion realizada con REACT NATIVE CON JS Y PHP CON LARAVEL </a>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
